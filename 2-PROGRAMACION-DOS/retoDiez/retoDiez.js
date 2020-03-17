@@ -1,7 +1,7 @@
 var edad = 0;
 var total = 0;
 
-const textElement = document.querySelector('.list');
+const textElement = document.querySelector('h1');
 
 const edad = prompt(parseInt(list));
 
