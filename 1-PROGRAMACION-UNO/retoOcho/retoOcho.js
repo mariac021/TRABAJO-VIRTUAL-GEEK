@@ -2,5 +2,5 @@
 
 
 
-var elemento = document.getElementById("botones");
-    elemento.btns += "Opacity: 3;";
+const button = document.querySelector('.btn2');
+button.classList.add('opacity');
